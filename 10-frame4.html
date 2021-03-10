@@ -1,0 +1,2 @@
+<body bgcolor="red">
+</body>

@@ -1,0 +1,20 @@
+h1
+{
+    color:chocolate;
+    
+}
+h3
+{
+    color:darkred;
+    font-style: italic;
+}
+p
+{
+    font-weight:bold;
+}
+body
+{
+    background-image: url('rmkcet.png');
+    background-repeat: no-repeat;
+    text-align: center;
+}
